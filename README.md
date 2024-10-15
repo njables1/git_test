@@ -1,1 +1,2 @@
-# git_test
+"Hello Odin!"   
+"Hope today is wonderful! You got this!"
